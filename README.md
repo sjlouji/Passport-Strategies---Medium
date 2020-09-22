@@ -9,6 +9,9 @@
 
 1.  [Google OAuth - Passport JS](https://github.com/sjlouji/Passport-Strategies---Medium/tree/master/passport_sta) <a href="https://medium.com/@sjlouji10/node-and-passport-js-google-oauth20-authentication-8bcd6b3d67ca?sk=4c5bbea90e4d26a0d3cc3edc992937fb" target="_blank"><img alt="Medium" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" /></a>
 
-1.  [Facebook OAuth - Passport JS](https://github.com/sjlouji/Passport-Strategies---Medium/tree/master/facebook_passport) <a href="https://medium.com/@sjlouji10/node-and-passport-js-facebook-authentication-76cbfa903ff3?sk=eda87c34184d91e747f8422d4d4d98c0" target="_blank"><img alt="Medium" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" /></a>
+2.  [Facebook OAuth - Passport JS](https://github.com/sjlouji/Passport-Strategies---Medium/tree/master/facebook_passport) <a href="https://medium.com/@sjlouji10/node-and-passport-js-facebook-authentication-76cbfa903ff3?sk=eda87c34184d91e747f8422d4d4d98c0" target="_blank"><img alt="Medium" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" /></a>
+
+3.  [Github OAuth - Passport JS](https://github.com/sjlouji/Passport-Strategies---Medium/tree/master/github_passport) <a href="https://medium.com/@sjlouji10/node-and-passport-js-github-authentication-e33dbd0558c?sk=b9e376011d5de2fe196ab1763738579e" target="_blank"><img alt="Medium" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" /></a>
+
 
 
