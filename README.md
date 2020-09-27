@@ -14,7 +14,10 @@
 3.  [Github OAuth - Passport JS](https://github.com/sjlouji/Passport-Strategies---Medium/tree/master/github_passport) <a href="https://medium.com/@sjlouji10/node-and-passport-js-github-authentication-e33dbd0558c?sk=b9e376011d5de2fe196ab1763738579e" target="_blank"><img alt="Medium" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" /></a>
 
 
-3.  [Spotify OAuth - Passport JS](https://github.com/sjlouji/Passport-Strategies---Medium/tree/master/spotify_clonne) <a href="https://medium.com/@sjlouji10/authenticate-your-app-with-spotify-oauth-25744e906ade?sk=db56377b476285312c6a507606f8829d" target="_blank"><img alt="Medium" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" /></a>
+4.  [Spotify OAuth - Passport JS](https://github.com/sjlouji/Passport-Strategies---Medium/tree/master/spotify_clonne) <a href="https://medium.com/@sjlouji10/authenticate-your-app-with-spotify-oauth-25744e906ade?sk=db56377b476285312c6a507606f8829d" target="_blank"><img alt="Medium" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" /></a>
+
+
+5.  [Amazon OAuth - Passport JS](https://github.com/sjlouji/Passport-Strategies---Medium/tree/master/Amazon_OAuth) <a href="https://medium.com/@sjlouji10/setup-amazon-oauth-with-node-and-passport-js-26686f972c15?sk=1b1e5558ce93a199424c70fae0f2344f" target="_blank"><img alt="Medium" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" /></a>
 
 
 
