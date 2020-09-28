@@ -20,4 +20,7 @@
 5.  [Amazon OAuth - Passport JS](https://github.com/sjlouji/Passport-Strategies---Medium/tree/master/Amazon_OAuth) <a href="https://medium.com/@sjlouji10/setup-amazon-oauth-with-node-and-passport-js-26686f972c15?sk=1b1e5558ce93a199424c70fae0f2344f" target="_blank"><img alt="Medium" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" /></a>
 
 
+6.  [Slack OAuth - Passport JS](https://github.com/sjlouji/Passport-Strategies---Medium/tree/master/slack_OAuth) <a href="https://medium.com/@sjlouji10/authenticate-your-app-with-slack-oauth-438c9ced4c6d?sk=a77cc4d848e9f63b63f56266d542a23f" target="_blank"><img alt="Medium" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" /></a>
+
+
 
