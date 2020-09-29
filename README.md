@@ -23,4 +23,5 @@
 6.  [Slack OAuth - Passport JS](https://github.com/sjlouji/Passport-Strategies---Medium/tree/master/slack_OAuth) <a href="https://medium.com/@sjlouji10/authenticate-your-app-with-slack-oauth-438c9ced4c6d?sk=a77cc4d848e9f63b63f56266d542a23f" target="_blank"><img alt="Medium" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" /></a>
 
 
+7.  [Twitter OAuth - Passport JS](https://github.com/sjlouji/Passport-Strategies---Medium/tree/master/twitter_oauth) <a href="https://medium.com/@sjlouji10/setting-up-twitter-oauth-with-node-and-passport-js-2298296b237c?sk=defa05b20ddcf5139393a37de9f89573" target="_blank"><img alt="Medium" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" /></a>
 
