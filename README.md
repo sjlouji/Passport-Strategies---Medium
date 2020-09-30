@@ -25,3 +25,10 @@
 
 7.  [Twitter OAuth - Passport JS](https://github.com/sjlouji/Passport-Strategies---Medium/tree/master/twitter_oauth) <a href="https://medium.com/@sjlouji10/setting-up-twitter-oauth-with-node-and-passport-js-2298296b237c?sk=defa05b20ddcf5139393a37de9f89573" target="_blank"><img alt="Medium" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" /></a>
 
+
+8.  [JWT Strategy - Passport JS](https://github.com/sjlouji/Passport-Strategies---Medium/tree/master/jwt_passport
+) <a href="https://medium.com/@sjlouji10/jwt-auth-with-node-and-passport-js-c41a91d333e0?sk=46130035ae5e4bb9df1d4ec00e55dc2e" target="_blank"><img alt="Medium" height="20" width="20" src="https://cdn.iconscout.com/icon/free/png-512/medium-1693563-1442604.png" /></a>
+
+
+
+
