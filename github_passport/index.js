@@ -6,7 +6,7 @@ require('./passport')
 const isLoggedIn = require('./Middleware/auth')
 
 app.use(cookieSession({
-  name: 'facebook-auth-session',
+  name: 'github-auth-session',
   keys: ['key1', 'key2']
 }))
 app.use(passport.initialize());
